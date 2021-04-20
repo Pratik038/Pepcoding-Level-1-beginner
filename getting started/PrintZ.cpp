@@ -1,5 +1,3 @@
-Q. 1. You are required to print a 'z' of size 5 using '*'.
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -15,10 +13,3 @@ int main()
 		cout<<endl;
 	}
 }
-
-Output:
-*****
-   * 
-  *  
- *   
-*****
